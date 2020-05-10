@@ -1,7 +1,8 @@
 # Exercise 2
 In this exercise, you'll practice resolving a merge conflict.
 
-> This is a line you will change!
+> Warning
+> "Toto, I've got a feeling we're not in Kansas anymore."
 
 To complete the exercise, follow the below steps:
 
